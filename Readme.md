@@ -75,7 +75,7 @@ Example response:
 [
   {
     "id": 1,
-    "name": "abhishek",
+    "name": "sourabh",
     "sem": 6,
     "dept": "cyber"
   }
