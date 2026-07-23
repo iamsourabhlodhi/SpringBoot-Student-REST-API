@@ -1,8 +1,10 @@
 package com.sourabh.model;
 
+import org.springframework.stereotype.Component;
+
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
-
+@Component
 @Entity
 public class Data {
 	@Id
